@@ -123,7 +123,7 @@ export default function App() {
           <div className="section-inner">
             <div className="content-half">
               <h2  className="neon-text-a" >About Our Services</h2>
-              <button className="btn-sec" onClick={() => window.open('/service.html', '_self')}>See more</button>     
+              <button className="btn-sec" onClick={() => window.open('service.html', '_self')}>See more</button>     
             </div>
             
           </div>
@@ -135,7 +135,7 @@ export default function App() {
           <div className="section-inner2">
             <div className="content-half">
               <h2 className="neon-text-a">Features</h2>
-               <button className="btn-sec" onClick={() => window.open('/features.html', '_self')}>See more</button>
+               <button className="btn-sec" onClick={() => window.open('features.html', '_self')}>See more</button>
             </div>
           </div>
         </section>
