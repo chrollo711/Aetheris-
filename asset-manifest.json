@@ -1,20 +1,16 @@
 {
   "files": {
-    "main.css": "/Aetheris-/static/css/main.bb3db833.css",
-    "main.js": "/Aetheris-/static/js/main.34215a03.js",
-    "static/media/i2.png": "/Aetheris-/static/media/i2.c84424a117672e739dd4.png",
-    "static/media/i1.png": "/Aetheris-/static/media/i1.a5817f538907d855e8e5.png",
-    "static/media/i3.png": "/Aetheris-/static/media/i3.22ae920cb691b802a095.png",
-    "static/media/i4.png": "/Aetheris-/static/media/i4.c4a1a7c558aa21a7bef7.png",
-    "static/media/car.png": "/Aetheris-/static/media/car.25856576e156f5bdd7d9.png",
-    "static/media/car 1.png": "/Aetheris-/static/media/car 1.4c31b52ab930f345feb4.png",
+    "main.css": "/Aetheris-/static/css/main.fbfa9410.css",
+    "main.js": "/Aetheris-/static/js/main.02508e6d.js",
+    "static/media/cybercity.png": "/Aetheris-/static/media/cybercity.4eabe99cc3fb90bcf00a.png",
     "static/media/testimonial.png": "/Aetheris-/static/media/testimonial.78a74d90cbfc499c88cc.png",
+    "static/media/robot.png": "/Aetheris-/static/media/robot.539907153da6d47bc6b6.png",
     "index.html": "/Aetheris-/index.html",
-    "main.bb3db833.css.map": "/Aetheris-/static/css/main.bb3db833.css.map",
-    "main.34215a03.js.map": "/Aetheris-/static/js/main.34215a03.js.map"
+    "main.fbfa9410.css.map": "/Aetheris-/static/css/main.fbfa9410.css.map",
+    "main.02508e6d.js.map": "/Aetheris-/static/js/main.02508e6d.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb3db833.css",
-    "static/js/main.34215a03.js"
+    "static/css/main.fbfa9410.css",
+    "static/js/main.02508e6d.js"
   ]
 }
