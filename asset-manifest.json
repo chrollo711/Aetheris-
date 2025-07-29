@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Aetheris-/static/css/main.fbfa9410.css",
-    "main.js": "/Aetheris-/static/js/main.02508e6d.js",
+    "main.js": "/Aetheris-/static/js/main.6f9a9b94.js",
     "static/media/cybercity.png": "/Aetheris-/static/media/cybercity.4eabe99cc3fb90bcf00a.png",
     "static/media/testimonial.png": "/Aetheris-/static/media/testimonial.78a74d90cbfc499c88cc.png",
     "static/media/robot.png": "/Aetheris-/static/media/robot.539907153da6d47bc6b6.png",
     "index.html": "/Aetheris-/index.html",
     "main.fbfa9410.css.map": "/Aetheris-/static/css/main.fbfa9410.css.map",
-    "main.02508e6d.js.map": "/Aetheris-/static/js/main.02508e6d.js.map"
+    "main.6f9a9b94.js.map": "/Aetheris-/static/js/main.6f9a9b94.js.map"
   },
   "entrypoints": [
     "static/css/main.fbfa9410.css",
-    "static/js/main.02508e6d.js"
+    "static/js/main.6f9a9b94.js"
   ]
 }
