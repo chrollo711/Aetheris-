@@ -126,9 +126,6 @@ export default function App() {
              <hr></hr>
             <div className="content-half">
 
-              <h2  className="neon-text-a" >About Our Services</h2>
-              <button className="btn-sec" onClick={() => window.open('service.html', '_self')}>See more</button>     
-
               <p  className="neon-text-a" >We as a tech company provide you services which can save your family or friend next time they drive.</p>
               <button className="btn-sec" onclick={() => window.open('/service.html', '_blank')}>learn more about our services</button>     
 
